@@ -4,7 +4,9 @@ GillesPy2lia is a Julia Wrapper for GillesPy2, a Python package for stochastic s
 
 ## Installation
 
-GillesPy2lia currently requires a python installation of GillesPy2.  For instructions on installing GillesPy2 for Python, see https://github.com/gillespy2/gillespy2
+GillesPy2lia currently requires a python installation of GillesPy2.  GillesPy2 can be installed through Python's package manager using:  
+`pip install gillespy2`  
+For more detailed instructions on installing GillesPy2 for Python, see https://github.com/gillespy2/gillespy2  
 
 Once the Python package has been installed, GillesPy2lia can be installed through the pkg REPL using:  
 `add https://github.com/stochss/gillespy2lia#main`  
